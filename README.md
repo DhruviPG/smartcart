@@ -1,17 +1,5 @@
 # smartcart
 
-A new Flutter project.
+SMARTCART is a modern Flutter-based e-commerce app focused on helping users make better shopping decisions. It includes Smart Compare for comparing up to 3 products based on budget, rating, delivery and features, plus Why This Product? for personalized product explanations using simple rule-based logic.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app uses local demo products, in-memory accounts and in-memory orders. Demo sign-in: `demo@smartcart.com` / `123456`. New accounts and orders are cleared when the app process closes.
